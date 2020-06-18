@@ -8,4 +8,4 @@ Public Files That can be helped with the make it look better or add more functio
 See Changelog in files to see what is edited and added
 
 
-![Example](https://gyazo.com/503a3fd7a77d8ca8332b0242a692882e)
+![Example](https://i.gyazo.com/503a3fd7a77d8ca8332b0242a692882e.png)
