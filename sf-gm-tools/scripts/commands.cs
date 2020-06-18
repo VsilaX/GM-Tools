@@ -19,7 +19,7 @@ function sfGMToggleMode(%val)
 		// Usually we'd show the actual command made using %cmd, but since we want
 		// to hide the password, we'll just display "/GM" and some bullet points
 		onChatMessage("<spush><color:FF4500>/GM ••••<spop>", null, null);
-		onChatMessageGlobal("Test2");
+		
 
 
 
