@@ -203,14 +203,7 @@ function sfGMobj()
 }
 
 
-// function sfGMScale2()
-// {
-// 	%cmd = "/scale .2";
-//
-// 	onChatMessage("<spush><color:FF4500>" @ %cmd @ "<spop>", null, null);
-//
-// 	doSlashCommand(%cmd);
-// }
+
 //scale
 function sfGMscale()
 {
